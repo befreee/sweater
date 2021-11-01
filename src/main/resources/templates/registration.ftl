@@ -5,7 +5,8 @@
 Add new user
 
 ${message}
-
+<#else>
+Nothing!
 
 <@l.login "/registration" />
 </@c.page>
