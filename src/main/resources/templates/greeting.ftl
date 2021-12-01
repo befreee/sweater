@@ -1,9 +1,6 @@
 <#import "parts/common.ftl" as c>
 
 <@c.page>
-<div>Hello, user</div>
-<br/>
-<a href="/main">Go to main page!</a>
-<br/>
-<a href="/login">Go to login page</a>
+<h4>Hello, guest!</h4>
+<div>This is simple application, clone of Twitter</div>
 </@c.page>
